@@ -1,6 +1,3 @@
-// this is where we use the open AI library
-// the open AI library will give us a promise
-
 const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
